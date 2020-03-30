@@ -1,0 +1,30 @@
+@media screen and (min-width: 480px) {
+
+/****************
+TWO COLUMN LAYOUT
+****************/
+
+
+
+/****************
+PAGE: PORTFOLIO
+****************/
+
+
+
+/****************
+PAGE: ABOUT
+****************/
+
+.profile-photo{
+    float: left;
+    margin: 0 5% 80px 0;
+}
+
+}
+
+@media screen and (min-width: 660px)
+
+/****************
+PAGE: CONTACT
+****************/
