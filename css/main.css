@@ -166,14 +166,14 @@ body {
 }
 
 header {
-    background: #6ab47b;
-    border-color: #599a68;
+    background: #deb887;
+    border-color: #ff7f50;
 }
 
 /* NAV BACKGROUND ON MOBILE */
 
 nav {
-    background: #599a68;
+    background: #ff7f50;
 }
 
 /* LOGO COLOR */
